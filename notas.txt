@@ -5,3 +5,19 @@ Los arreglos son un conjunto de datos (cualquier tipo de dato)
 
 Recorrido -> Se utiliza para buscar información
 Llenado   -> Se utiliza para alimentar el arreglo de información
+
+
+
+Hacer un push de la nueva rama
+git add .
+git commit -m "Mensaje descriptivo"
+git push origin "rama"
+
+
+¿Cuál y qué es el patrón de diseño (arquitectura) MVC?
+Métodos de los arreglos
+	-push(), pop(), shift(), unshift(), map(),          filter(), find(), some(), forEach()
+
+DOM
+-> HTML y CSS (FlexBox, BoxModel, clases, pseudoelemento y una pseudoclase)
+
