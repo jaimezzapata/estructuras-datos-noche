@@ -2,3 +2,6 @@ Los arreglos son un espacio de memoría que almacena multiples valores
 Los arreglos son un conjunto de datos (cualquier tipo de dato)
     Tamaño    -> Hace referencia a la cantidad de elementos dentro del arreglo
     Posición  -> Hace referencia a la cantidad de elementos -1
+
+Recorrido -> Se utiliza para buscar información
+Llenado   -> Se utiliza para alimentar el arreglo de información
